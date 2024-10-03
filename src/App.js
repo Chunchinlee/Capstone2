@@ -18,7 +18,7 @@ const App = () => {
       <div>
         <section className='hero'>
           <h1>Welcome To Fixme</h1>
-          <p>Learn and Play with our Interactive Game</p>
+          <p>Learn and Play with our Interactive Game!</p>
         </section>
         <Routes>
           <Route path="/about" element={<About />} />
